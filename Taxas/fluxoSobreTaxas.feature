@@ -13,14 +13,14 @@ os 4 botões distintos
         E tenha clicado em Conhecer as Taxas
         Quando clicar em <opcoes> ou escrever <opcoes>
         E o bot fazer uma apresentação do que se trata a <opcoes>
-        Então o bot deve mostrar como resposta final daquela <opcoes> o botão correspondente
+        Então o bot deve mostrar como resposta final daquele fluxo a resposta e os botões correspondentes
 
     Cenário: Apresentar as taxas e seus fluxos correspondentes como não sendo um cliente
         Dado que o usuário esteja com o chatbot aberto
         E tenha clicado em Conhecer as Taxas
         Quando clicar em <opcoes> ou escrever <opcoes>
         E o bot fazer uma apresentação do que se trata a <opcoes>
-        Então o bot deve mostrar como resposta final daquela <opcoes> o botão correspondente
+        Então o bot deve mostrar como resposta final daquele fluxo a resposta e os botões correspondentes
 
     Exemplos:
     | opcoes                     | 
