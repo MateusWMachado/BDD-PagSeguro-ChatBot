@@ -1,3 +1,5 @@
+#language:pt-br
+
 Funcionalidade: Fluxo de requisição e informações da Moderninha Pro 2
 O bot deve apresentar a Moderninha Pro 2 e após o usuário 
 seguir o fluxo de requisição ou informações da maquininha 
