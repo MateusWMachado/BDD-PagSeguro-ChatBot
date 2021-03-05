@@ -7,6 +7,6 @@ deve ser redirecionado para a página de login no site
 
     Cenário: Login no site
         Dado que o usuário esteja com o chatbot aberto
-        Quando clicar em já sou cliente
-        E clicar em fazer login no site ou escrever fazer login no site
+        Quando clicar em já sou cliente ou digitar já sou cliente
+        E clicar em fazer login no site ou digitar fazer login no site
         Então deve ser redirecionado a página de login do site da pagseguro
