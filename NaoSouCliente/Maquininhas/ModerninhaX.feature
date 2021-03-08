@@ -1,6 +1,6 @@
 #language:pt-br
 
-Funcionalidade: Fluxo de compra e vantagens da Moderninha X
+Funcionalidade: Fluxo de requisição e informações da Moderninha X
 Após seguir o fluxo corretamente o bot deve 
 apresentar as vantagens da Moderninha X ou 
 redirecionar o usuário para a compra da maquininha
