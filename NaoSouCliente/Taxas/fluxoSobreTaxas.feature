@@ -7,8 +7,9 @@ os 4 botões distintos
 
     Cenário: Apresentar as taxas e seus fluxos correspondentes como não sendo um cliente
         Dado que o usuário esteja com o chatbot aberto
-        E tenha clicado em Conhecer as Taxas
-        Quando clicar em <opcoes> ou escrever <opcoes>
+        E clicar ou digitar Ainda não Sou cliente
+        E tenha clicado ou digitado Conhecer as Taxas
+        Quando clicar ou digitar <opcoes>
         E o bot fazer uma apresentação do que se trata a <opcoes>
         Então o bot deve mostrar como resposta final daquele fluxo a resposta e os botões correspondentes
 
