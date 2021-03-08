@@ -5,7 +5,7 @@ Após seguir o fluxo corretamente o bot deve apresentar a
 Moderninha Plus e redirecionar o usuário para a compra da maquininha
 ou redirecionar o usuário para a página de regulamento da Moderninha Plus
 
-    Cenário: Comprar a Moderninha Plus não sendo um cliente
+    Cenário: Comprar a Moderninha Plus
         Dado que o usuário esteja com o chatbot aberto
         E tenha clicado em Ainda não sou cliente ou digitado Ainda não sou cliente
         E tenha clicado em 💳 Máquinas PagSeguro ou digitado 💳 Máquinas PagSeguro
@@ -16,7 +16,7 @@ ou redirecionar o usuário para a página de regulamento da Moderninha Plus
         E o usuário clicar no botão de Quero pedir
         Então o usuário deve ser redirecionado para a página de compra da Moderninha Plus
 
-    Cenário: Comprar a Moderninha Plus não sendo um cliente
+    Cenário: Regulamento Moderninha Plus
         Dado que o usuário esteja com o chatbot aberto
         E tenha clicado em Ainda não sou cliente ou digitado Ainda não sou cliente
         E tenha clicado em 💳 Máquinas PagSeguro ou digitado 💳 Máquinas PagSeguro
