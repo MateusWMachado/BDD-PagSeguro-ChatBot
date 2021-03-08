@@ -8,7 +8,7 @@ o bot deve apresentar as promoções
 
     Cenário: Promoções
     Dado que o usuário esteja com o chatbot aberto
-    Quando clicar em Ainda não Sou cliente ou digitar Ainda não sou cliente
-    E clicar em promoções ou digitar promoções
-    E clicar em indique e ganhe
+    E clicar ou digitar Ainda não Sou cliente
+    E clicar ou digitar promoções 
+    Quando digitar ou clicar em indique e ganhe
     Então o bot deve mostrar o programa Indique e ganhe
