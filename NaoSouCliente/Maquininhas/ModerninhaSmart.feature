@@ -3,7 +3,7 @@
 Funcionalidade: Fluxo de requisição e informações da Moderninha Smart
 Após seguir o fluxo corretamente o bot deve 
 apresentar as vantagens da Moderninha Smart ou 
-redirecionar o usuário para a compra da maquininha
+redirecionar o usuário para a compra ou informações da maquininha
 
     Cenário: Comprar a Moderninha Smart
         Dado que o usuário esteja com o chatbot aberto
