@@ -7,18 +7,18 @@ o usuário deve ser redirecionado para a página de compra ou informações
 
     Cenário: Comprar a Moderninha Pro 2 
         Dado que o usuário esteja com o chatbot aberto
-        E tenha clicado em Não sou cliente
-        E tenha clicado em 💳 Máquinas PagSeguro
-        E tenha clicado em Ver outras máquinas
-        E tenha clicado em Prefiro Impresso
+        E tenha clicado ou digitado Não sou cliente
+        E tenha clicado ou digitado 💳 Máquinas PagSeguro
+        E tenha clicado ou digitado Ver outras máquinas
+        E tenha clicado ou digitado Prefiro Impresso
         Quando o bot responder com a opção Moderninha Pro 2
-        E o usuário clicar no botão Mais informações
-        E clicar em Quero pedir
+        E o usuário digitar ou clicar no botão Mais informações
+        E clicar dou digitar Quero pedir
         Então o usuário deve ser redirecionado para a página de compra da Moderninha Pro 2
 
     Cenário: Vantagens da Moderninha Pro 2 
         Dado que o usuário esteja com o chatbot aberto
-        E tenha clicado em Não sou cliente
+        E tenha clicado ou digitado Não sou cliente
         E tenha clicado ou digitado 💳 Máquinas PagSeguro
         E tenha clicado ou digitado Ver outras máquinas
         E tenha clicado ou digitado Prefiro Impresso
