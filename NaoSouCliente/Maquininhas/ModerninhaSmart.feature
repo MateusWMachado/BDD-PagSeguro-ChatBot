@@ -1,11 +1,11 @@
 #language:pt-br
 
-Funcionalidade: Fluxo de compra e vantagens da Moderninha Smart
+Funcionalidade: Fluxo de requisição e informações da Moderninha Smart
 Após seguir o fluxo corretamente o bot deve 
 apresentar as vantagens da Moderninha Smart ou 
 redirecionar o usuário para a compra da maquininha
 
-    Cenário: Comprar a Moderninha Smart não sendo um cliente
+    Cenário: Comprar a Moderninha Smart
         Dado que o usuário esteja com o chatbot aberto
         E tenha clicado em Ainda não sou cliente ou digitado Ainda não sou cliente
         E tenha clicado em 💳 Máquinas PagSeguro ou digitado Máquinas PagSeguro

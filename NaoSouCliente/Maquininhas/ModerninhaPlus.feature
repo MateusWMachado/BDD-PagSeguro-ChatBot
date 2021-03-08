@@ -1,6 +1,6 @@
 #language:pt-br
 
-Funcionalidade: Fluxo de requisição e regulamento/promoções da Moderninha Plus
+Funcionalidade: Fluxo de requisição e informações da Moderninha Plus
 Após seguir o fluxo corretamente o bot deve apresentar a
 Moderninha Plus e redirecionar o usuário para a compra da maquininha
 ou redirecionar o usuário para a página de regulamento da Moderninha Plus

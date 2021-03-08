@@ -1,6 +1,6 @@
 #language:pt-br
 
-Funcionalidade: Fluxo de taxas e tarifas e requisição da Minizinha
+Funcionalidade: Fluxo de requisição e informações da Minizinha NFC
 Após seguir o fluxo corretamente o bot deve apresentar a
 página de taxas e tarifas ou redirecionar o usuário para a compra da maquininha
 
